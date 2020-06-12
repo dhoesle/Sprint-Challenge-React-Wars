@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
 const ImgContainer = styled.div`
-    max-width: 20%;
+    margin-left: 150px;
 `
 export default ImgContainer

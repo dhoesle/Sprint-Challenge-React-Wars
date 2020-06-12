@@ -6,7 +6,7 @@ const TextContainer = styled.div`
   align-items: flex-start;
   align-content: center;
   flex-direction: column;
-  background-color: gray;
-  margin: 80px;
+  margin: 0px 150px;
+  line-height: 10px;
 `
 export default TextContainer
